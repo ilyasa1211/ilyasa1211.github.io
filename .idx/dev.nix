@@ -15,6 +15,7 @@
       "vue.volar"
       "google.gemini-cli-vscode-ide-companion"
       "vscodevim.vim"
+      "bradlc.vscode-tailwindcss"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
